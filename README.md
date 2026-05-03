@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Instalação Rápida (Para o Peão)
+## 🚀 Instalação Rápida 
 
 ```bash
 # 1. Clone o repositório
