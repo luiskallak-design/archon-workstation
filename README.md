@@ -1,7 +1,7 @@
 # ⌬ ARCHON-WORKSTATION: LEVEL 8
 > **The Divine Engine | Framework de Alta Performance**
 
-![Archon Workstation Level 8](./assets/preview.jpg)
+![Archon Workstation Level 8](./assets/archon-workstation1-.png)
 
 ---
 
