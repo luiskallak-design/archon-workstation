@@ -43,7 +43,7 @@ if ! command -v archonplayer &> /dev/null; then
     fi
 
     # Clona e compila a partir do seu repositório oficial
-    git clone https://github.com /tmp/archonplayer
+    git clone https://github.com/luiskallak-design/archonplayer-tui /tmp/archonplayer
     cd /tmp/archonplayer/archonplayer && make
     sudo make install
     cd - && rm -rf /tmp/archonplayer
