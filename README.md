@@ -16,7 +16,7 @@
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com
+git clone https://github.com/luiskallak-design/archon-workstation
 
 # 2. Entre no diretório
 cd archon-workstation
